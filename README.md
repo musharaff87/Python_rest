@@ -8,3 +8,5 @@ Some reasons you might want to use REST framework:
 * Customizable all the way down - just use regular function-based views if you don't need the more powerful features.
 * Extensive documentation, and great community support.
 * Used and trusted by internationally recognised companies including Mozilla, Red Hat, Heroku, and Eventbrite.
+
+"You can create classic web applications via Django and expose their functionality to the world through REST APIs."
