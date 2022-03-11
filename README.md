@@ -10,3 +10,13 @@ Some reasons you might want to use REST framework:
 * Used and trusted by internationally recognised companies including Mozilla, Red Hat, Heroku, and Eventbrite.
 
 "You can create classic web applications via Django and expose their functionality to the world through REST APIs."
+
+
+
+* Start Using the API! *
+
+* Install and Set Up Django and DRF. Let's start by creating a Python virtual environment and activating it in the desired working directory. ...
+* Set Up Django Models. ...
+* Set Up DRF Serializers. ...
+* Set Up Routers and Create API URLs. ...
+* Start Using the API.
