@@ -13,7 +13,7 @@ Some reasons you might want to use REST framework:
 
 
 
-* Start Using the API! *
+Start Using the API! 
 
 * Install and Set Up Django and DRF. Let's start by creating a Python virtual environment and activating it in the desired working directory. ...
 * Set Up Django Models. ...
